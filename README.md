@@ -1,0 +1,2 @@
+# fatwa
+web scrape islamqa
